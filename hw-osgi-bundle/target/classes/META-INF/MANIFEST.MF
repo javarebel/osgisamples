@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: nsisupal
+Build-Jdk: 1.6.0_23
+Bundle-Version: 1.0.0.SNAPSHOT
+Tool: Bnd-1.15.0
+Bundle-Name: Helloworld OSGi
+Bnd-LastModified: 1334118176680
+Bundle-Activator: org.navee.osgi.samples.helloworld.osgi.HelloWorldAct
+ ivator
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: hw-osgi-bundle
+Import-Package: org.osgi.framework;version="[1.5,2)"
+
